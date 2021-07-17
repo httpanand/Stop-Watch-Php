@@ -1,2 +1,3 @@
 # Stop-Watch-Php
-A simple stop watch with Html , JS , CSS .
+
+Hope you like this :)
